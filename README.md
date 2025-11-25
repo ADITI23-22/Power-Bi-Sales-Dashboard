@@ -17,7 +17,7 @@ Kaggle Retail Superstore Sales dataset (public)
 - Excel
 
 # Dashboard Snapshot
-  Dashboard_snapshot.png
+  https://github.com/ADITI23-22/Power-Bi-Sales-Dashboard/blob/main/Dashboard_snapshot.png?raw=true 
   
 
 
