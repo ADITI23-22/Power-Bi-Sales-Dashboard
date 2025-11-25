@@ -17,5 +17,7 @@ Kaggle Retail Superstore Sales dataset (public)
 - Excel
 
 # Dashboard Snapshot
+  Dashboard_snapshot.png
+  
 
 
